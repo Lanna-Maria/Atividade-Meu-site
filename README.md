@@ -25,7 +25,7 @@ A página foi projetada para apresentar as principais funcionalidades de um site
 
 ---
 
-<img src="https://github.com/user-attachments/assets/c5f0a0d3-1d7a-462d-b6eb-731d864cbaf6" width="400"
+<img src="https://github.com/user-attachments/assets/c5f0a0d3-1d7a-462d-b6eb-731d864cbaf6" width="400">
 
 
 
