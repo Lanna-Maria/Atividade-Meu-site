@@ -25,11 +25,8 @@ A página foi projetada para apresentar as principais funcionalidades de um site
 
 ---
 
-## 📂 Estrutura do Projeto
+![Captura de Tela (568)](https://github.com/user-attachments/assets/c5f0a0d3-1d7a-462d-b6eb-731d864cbaf6)
 
-```plaintext
-├── index.html       # Página principal do projeto
-└── README.md        # Documentação do projeto
 
-![Captura de Tela (568)](https://github.com/user-attachments/assets/f58581ce-e771-4a94-98cd-892e7384cf43)
+
 
