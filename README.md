@@ -25,7 +25,8 @@ A página foi projetada para apresentar as principais funcionalidades de um site
 
 ---
 
-<img src="https://github.com/user-attachments/assets/c5f0a0d3-1d7a-462d-b6eb-731d864cbaf6" width="400">
+![Captura de Tela (568)](https://github.com/user-attachments/assets/6fefc9c9-1dfa-4c51-806f-4bcf93887834)
+
 
 
 
